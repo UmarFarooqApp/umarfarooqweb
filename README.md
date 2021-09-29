@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## This is umar farooq. I have over 1 year of experiance in Flutter (IOS & Android), one year of experiance in Native Android and 6 months of experiance is Machine Learning.
+
 <!--
 **umarfarooqweb/umarfarooqweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
